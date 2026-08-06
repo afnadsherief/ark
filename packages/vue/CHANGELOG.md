@@ -1,5 +1,12 @@
 # @ark-ui/vue
 
+## [5.38.1] - 2026-08-06
+
+### Fixed
+
+- Fixed missing `*.vue.d.ts` declaration files in the published package so `defineProps<*Props>` type imports resolve
+  again.
+
 ## [5.38.0] - 2026-08-01
 
 ### Added
