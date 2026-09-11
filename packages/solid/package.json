@@ -180,7 +180,7 @@
     "typescript": "6.0.3",
     "vite": "8.1.5",
     "vite-plugin-solid": "2.11.13",
-    "vitest": "4.1.10",
+    "vitest": "4.1.11",
     "vitest-axe": "1.0.0-pre.5"
   },
   "peerDependencies": {
