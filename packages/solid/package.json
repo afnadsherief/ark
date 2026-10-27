@@ -174,7 +174,7 @@
     "lucide-solid": "1.26.0",
     "resize-observer-polyfill": "1.5.1",
     "solid-js": "1.9.14",
-    "storybook": "10.5.3",
+    "storybook": "10.6.2",
     "storybook-solidjs-vite": "10.1.1",
     "tsup": "8.5.1",
     "typescript": "6.0.3",
